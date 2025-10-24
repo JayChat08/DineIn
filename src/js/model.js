@@ -1,3 +1,4 @@
+// modeling of data
 import { API_URL, Key, RES_PER_PAGE } from './config.js';
 import { AJAX } from './helper.js';
 import recipeView from './views/recipeView.js';
